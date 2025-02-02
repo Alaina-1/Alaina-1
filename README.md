@@ -12,7 +12,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alaina-1&theme=dark" alt="GitHub Streak" /></a>
-
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaina-1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </div>
 </div>
 
 <!--
