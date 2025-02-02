@@ -19,8 +19,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alaina-1&theme=dark" alt="GitHub Streak" /></a>
   <h2>Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaina-1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-    <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaina-1&theme=dark" alt="GitHub Trophies"/>
 </div>
 <h2 align="center">Skills</h2>
 <p align="center">
