@@ -11,13 +11,13 @@
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
-    <h1>Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <p align="center">
     Hey there! I'm Alaina, a passionate web development student with a love for coding and technology. I'm always learning new things and striving to improve my skills in languages like HTML, CSS, JavaScript, Python, and more. I enjoy creating clean, responsive websites and web applications, and I'm excited to share my journey and projects with the world. Let's connect and collaborate!
   </p>
   <h2>GitHub Streak</h2>
-  <a href="https://github-readme-streak-stats.vercel.app/?user=Alaina-1&theme=dark">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=Alaina-1&theme=dark" alt="GitHub Streak" />
+  <a href="https://streak-stats.demolab.com/?user=Alaina-1&theme=dark">
+    <img src="https://streak-stats.demolab.com/?user=Alaina-1&theme=dark" alt="GitHub Streak" />
   </a>
   <h2>Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaina-1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
