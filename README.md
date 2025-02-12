@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/alaina-a-881023343/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://github.com/Alaina-1">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -16,7 +16,9 @@
     Hey there! I'm Alaina, a passionate web development student with a love for coding and technology. I'm always learning new things and striving to improve my skills in languages like HTML, CSS, JavaScript, Python, and more. I enjoy creating clean, responsive websites and web applications, and I'm excited to share my journey and projects with the world. Let's connect and collaborate!
   </p>
   <h2>GitHub Streak</h2>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alaina-1&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats.vercel.app/?user=Alaina-1&theme=dark">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=Alaina-1&theme=dark" alt="GitHub Streak" />
+  </a>
   <h2>Top Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaina-1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
