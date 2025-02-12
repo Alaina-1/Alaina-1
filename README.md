@@ -13,15 +13,9 @@
   </div>
   <h1>Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-## About Me  
-- 🎓 Web Development Student passionate about coding  
-- 💻 Experienced with **HTML, CSS, JavaScript, Python, and Java**  
-- 🚀 Love building **responsive websites & web applications**  
-- 🌱 Currently learning **React & backend development**  
-- ⚡ Fun fact: **I enjoy debugging more than writing code!** 😆  
-
+<h2>👩‍💻 About Me</h2>
   <p align="center">
-    Hey there! I'm Alaina, a passionate web development student with a love for coding and technology. I'm always learning new things and striving to improve my skills in languages like HTML, CSS, JavaScript, Python, and more. I enjoy creating clean, responsive websites and web applications, and I'm excited to share my journey and projects with the world. Let's connect and collaborate!
+    ✨ Hi! I'm Alaina, a passionate web development student with a love for coding and technology. I'm always learning new things and striving to improve my skills in languages like HTML, CSS, JavaScript, Python, and more. I enjoy creating clean, responsive websites and web applications, and I'm excited to share my journey and projects with the world. Let's connect and collaborate!
   </p>
   <h2>GitHub Streak</h2>
   <a href="https://streak-stats.demolab.com/?user=Alaina-1&theme=dark">
